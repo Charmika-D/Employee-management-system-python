@@ -20,10 +20,9 @@ A terminal-based Employee Management System developed using Python and CSV file 
 ## Project Structure
 
 Employee_Management_System
-│
-├── main.py
-├── employees.csv
-└── README.md
+-main.py
+-employees.csv
+ -README.md
 
 ## How to Run
 
